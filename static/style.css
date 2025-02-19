@@ -1,0 +1,95 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 100;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+ul li {
+    list-style: none;
+    margin-right: 20px;
+    padding-right: 10px;
+    border-right: 1px black solid;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.spring-images {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 240px;
+    margin-right: 10px;
+}
+
+.spring-images a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.spring-images img {
+    margin-right: 80px;
+}
+
+.spring-images a p {
+    margin-left: 50px;
+}
+
+/* ЛЕТНИЕ */
+
+.summer-images {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 240px;
+    margin-right: 10px;
+}
+
+.summer-images a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.summer-images img {
+    margin-right: 80px;
+}
+
+.summer-images a p {
+    margin-left: 50px;
+}
+
+/* autumn */
+
+.autumn-images {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 240px;
+    margin-right: 10px;
+}
+
+.autumn-images a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.autumn-images img {
+    margin-right: 80px;
+}
+
+.autumn-images a p {
+    margin-left: 50px;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+}
